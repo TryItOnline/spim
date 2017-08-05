@@ -1,0 +1,5 @@
+spim
+ *.o
+lex.yy.cpp
+parser_yacc.cpp
+parser_yacc.h
